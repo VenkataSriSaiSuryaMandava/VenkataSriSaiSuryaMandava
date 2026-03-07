@@ -1,9 +1,71 @@
-# 💫 About Me:
-💻 Software Engineer with a focus on backend systems, cloud infrastructure, and scalable APIs.<br>🚀 Currently building production-ready backend services and ML-powered data pipelines using Python, Node.js, and AWS.<br>🤝 Open to collaborating on backend systems, distributed systems, and cloud-native applications.<br>📚 Currently learning deeper system design, distributed architectures, and performance optimization.<br>💬 Ask me about backend engineering, REST APIs, cloud deployment, and building real-time data systems.<br>⚡ Fun fact: I enjoy turning complex data problems into scalable production systems.
+<h1 align="center">Hey there 👋 I'm Venkata Sri Sai Surya Mandava</h1>
+<h3 align="center">Backend Engineer • Cloud Systems • AI Engineer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer;Cloud-Native+Application+Builder;AI+Engineer;Distributed+Systems+Learner;Building+Scalable+Production+APIs"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya._.mandava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatasrisaisuryamandava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandavavenkatasrisaisurya@gmail.com) 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 💫 About Me
+
+💻 Software Engineer with a focus on **backend systems, cloud infrastructure, and scalable APIs**.  
+🚀 Currently building **production-ready backend services and ML-powered data pipelines using Python, Node.js, and AWS**.  
+🤝 Open to collaborating on **backend systems, distributed systems, and cloud-native applications**.  
+📚 Currently learning deeper **system design, distributed architectures, and performance optimization**.  
+💬 Ask me about **backend engineering, REST APIs, cloud deployment, and building real-time data systems**.  
+⚡ Fun fact: I enjoy turning **complex data problems into scalable production systems**.
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+
+<a href="mailto:mandavavenkatasrisaisurya@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/venkatasrisaisuryamandava">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/surya._.mandava">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VenkataSriSaiSuryaMandava">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,c,cpp,js,ts,html,css,fastapi,express,react,vue,aws,azure,gcp,docker,postgres,mysql,dynamodb,git,github&perline=10"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataSriSaiSuryaMandava&theme=tokyo-night&hide_border=true"/>
+</p>
