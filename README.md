@@ -57,9 +57,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com/?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://streak-stats.demolab.com?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
