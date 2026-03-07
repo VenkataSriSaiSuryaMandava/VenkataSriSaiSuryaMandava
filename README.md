@@ -51,19 +51,3 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,nodejs,java,c,cpp,js,ts,html,css,fastapi,express,react,vue,aws,azure,gcp,docker,postgres,mysql,dynamodb,git,github&perline=10"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataSriSaiSuryaMandava&theme=tokyo-night&hide_border=true"/>
-</p>
