@@ -1,128 +1,213 @@
 
-<h1 align="center">Hey there 👋 I'm Venkata Sri Sai Surya Mandava</h1>
-<h3 align="center">AI-Driven Software Engineer • Agentic AI • Backend & Full-Stack Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=36BCF7&center=true&vCenter=true&width=860&height=48&lines=Building+AI-Driven+Software+Systems;Engineering+Agents%2C+Tools+%26+RAG+Pipelines;Developing+Scalable+APIs+%26+Cloud+Services;Turning+AI+Workflows+Into+Reliable+Products" alt="Animated introduction" />
-</p>
+<h1>Hey there 👋 I'm Venkata Sri Sai Surya Mandava</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Programmer working at a computer" />
-</p>
+<h3>AI-Driven Software Engineer | Agentic AI | Backend & Full-Stack Engineering</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+Software+Systems;Engineering+AI+Agents+and+LLM+Workflows;Developing+Scalable+Backend+Services;Turning+AI+Ideas+Into+Real+Products" alt="Animated introduction" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Programmer working at a computer" />
+
+<br/>
+
+**Building intelligent applications where AI meets reliable software engineering.**
+
+</div>
 
 ---
 
 ## 💫 About Me
 
-I'm an **AI-driven Software Engineer** who enjoys building intelligent applications from end to end—agent workflows and retrieval systems on one side, dependable APIs, databases, and user experiences on the other.
+I'm an **AI-Driven Software Engineer** focused on building intelligent applications, scalable backend systems, and end-to-end software products.
 
-- 🤖 **AI engineering:** LLM integrations, agent orchestration, tool calling, RAG, and Model Context Protocol (MCP)
-- ⚙️ **Software engineering:** Python/Java/TypeScript services, REST APIs, real-time features, and React applications
-- ☁️ **Infrastructure:** Cloud deployments, containers, CI/CD, and performance-minded engineering
-- 🎓 **Education:** M.S. in Computer Science, University at Buffalo
-- 🧪 **Currently exploring:** Reliable agent execution, evaluation, observability, and human-in-the-loop workflows
-- 🔎 **Interested in:** AI Software Engineer, Agentic AI Engineer, AI-focused Backend Engineer, and Full-Stack AI Engineer opportunities
+I enjoy working across the engineering stack—from designing APIs and distributed services to integrating **LLMs, autonomous agents, retrieval systems, and AI-powered workflows** into real applications.
+
+- 🤖 **AI Engineering:** Agentic AI, LLMs, RAG, MCP, tool calling, and multi-agent orchestration
+- ⚙️ **Software Engineering:** Backend services, microservices, REST APIs, and full-stack development
+- ☁️ **Cloud & Infrastructure:** AWS, Azure, Docker, Kubernetes, and CI/CD
+- 🧠 **Currently Exploring:** AI agent reliability, context engineering, evaluation, and observability
+- 🌍 **Open Source:** Contributing to PyTorch, Kubernetes, and other engineering projects
+- 🎓 **Education:** M.S. in Computer Science — University at Buffalo
 
 ---
 
 ## 🧭 Engineering Focus
 
-| Focus | What I work on |
+| Area | What I Work On |
 | :--- | :--- |
-| 🤖 **Agentic AI** | Agent orchestration, tool integration, stateful workflows, MCP |
-| 🧠 **LLM & Retrieval Systems** | RAG, semantic search, vector databases, model integration |
-| ⚙️ **Backend Engineering** | REST APIs, microservices, asynchronous workflows, data services |
-| 🖥️ **Full-Stack Product Engineering** | React interfaces, API integration, end-to-end features |
-| ☁️ **Cloud-Native Engineering** | Docker, Kubernetes, cloud deployment, CI/CD |
-| 🛡️ **Reliable AI Systems** | Guardrails, evaluation, observability, deterministic replay, human oversight |
+| 🤖 **Agentic AI** | Multi-agent orchestration, stateful workflows, tool calling, MCP |
+| 🧠 **LLM Engineering** | RAG pipelines, semantic search, embeddings, model integrations |
+| ⚙️ **Backend Systems** | REST APIs, microservices, asynchronous processing, distributed services |
+| 💻 **Full-Stack Engineering** | React, Next.js, backend integration, end-to-end product development |
+| ☁️ **Cloud-Native Systems** | Docker, Kubernetes, AWS, CI/CD, containerized deployments |
+| 🛡️ **AI Reliability** | Guardrails, evaluation, observability, deterministic execution, human oversight |
 
 ---
 
 ## 🛠️ Technology Stack
 
-<p align="center"><b>Programming Languages & Application Frameworks</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,fastapi,spring,nodejs,express,react,nextjs&perline=11" alt="Languages and frameworks" />
-</p>
+<div align="center">
 
-<p align="center"><b>AI Engineering & Machine Learning</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-0E7490?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+### Languages & Frameworks
 
-<p align="center"><b>Cloud, Data & Developer Infrastructure</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,git,github&perline=12" alt="Cloud and infrastructure" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,fastapi,spring,nodejs,express,react,nextjs&perline=11" alt="Languages and frameworks" />
 
-<p align="center"><b>Engineering Practices</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Design-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automated_Testing-EA580C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability-DB2777?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-0891B2?style=for-the-badge" />
-</p>
+### AI Engineering & Machine Learning
+
+<img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-0E7490?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+### Cloud, Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,git,github&perline=12" alt="Cloud, databases and infrastructure" />
+
+### Engineering Practices
+
+<img src="https://img.shields.io/badge/System_Design-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSockets-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automated_Testing-EA580C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Observability-DB2777?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-0891B2?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🌍 Open-Source Contributions
+## 🌍 Open-Source Engineering
 
-I contribute to engineering projects involving **ML frameworks, cloud infrastructure, and application reliability**.
+Contributing to large-scale open-source projects with a focus on **ML framework correctness, compiler behavior, testing infrastructure, and maintainability**.
 
-| Project | Contribution |
-| :--- | :--- |
-| **[PyTorch](https://github.com/pytorch/pytorch)** | [TorchDynamo builtin `getattr` exception handling — PR #198330](https://github.com/pytorch/pytorch/pull/198330) |
-| **[PyTorch](https://github.com/pytorch/pytorch)** | [Improving `torch.compile` error messages — PR #198287](https://github.com/pytorch/pytorch/pull/198287) |
-| **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [Consolidating e2e test utilities onto `agnhost` — PR #143535](https://github.com/kubernetes/kubernetes/pull/143535) |
+### 🔥 PyTorch — TorchDynamo & Compiler Engineering
 
-<sub>PRs are linked for transparency; an opened PR does not necessarily mean it was merged.</sub>
+**Repository:** [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+Worked on improvements to PyTorch's TorchDynamo compilation and Python compatibility behavior.
+
+- **Exception Handling:** Investigated missing-attribute handling for built-in Python types in TorchDynamo, addressing how `AttributeError` propagates through compiled execution paths.
+- **Compiler Diagnostics:** Proposed improvements to `torch.compile` error reporting to expose underlying tensor operation errors more clearly.
+- **Python Compatibility:** Worked on constant-folding behavior and exception handling for Python built-ins in TorchDynamo.
+
+**Related Contributions:**
+[PR #198330](https://github.com/pytorch/pytorch/pull/198330) ·
+[PR #198287](https://github.com/pytorch/pytorch/pull/198287) ·
+[PR #197499](https://github.com/pytorch/pytorch/pull/197499)
+
+### ☸️ Kubernetes — Testing Infrastructure
+
+**Repository:** [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
+Contributed to simplifying Kubernetes end-to-end testing infrastructure and reducing redundant test-image dependencies.
+
+- **Test Infrastructure:** Proposed migrating host IPC test execution from the standalone `ipc-utils` image to the existing `agnhost` utility image.
+- **Codebase Cleanup:** Removed obsolete image references, configuration entries, and related test-image dependencies.
+- **Validation:** Verified test package compilation, formatting, type checks, and command behavior compatibility.
+
+**Related Contribution:**
+[PR #143535](https://github.com/kubernetes/kubernetes/pull/143535)
+
+<sub>These descriptions cover submitted contributions. The linked PyTorch PRs above were closed without merging, and the Kubernetes PR was open when last checked.</sub>
 
 ---
 
 ## 🧩 Selected Engineering Work
 
-| Repository | What it demonstrates |
-| :--- | :--- |
-| **[Agentic_AI](https://github.com/VenkataSriSaiSuryaMandava/Agentic_AI)** | Experiments with LangGraph, agentic RAG, MCP servers, and multi-agent frameworks |
-| **[Computer-Use Automation System](https://github.com/VenkataSriSaiSuryaMandava/computer-use-automation-system)** | LLM-guided UI discovery, deterministic replay, guardrails, and human-in-the-loop escalation |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI
+
+**[Explore Repository](https://github.com/VenkataSriSaiSuryaMandava/Agentic_AI)**
+
+A collection of AI engineering implementations and experiments exploring intelligent agent architectures.
+
+**Key Areas**
+- Agentic RAG workflows
+- LangGraph-based agents
+- Custom MCP server integration
+- Multi-agent frameworks
+- Tool-based agent execution
+
+**Focus:** Agent orchestration, LLM integration, retrieval systems, and intelligent workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Computer-Use Automation
+
+**[Explore Repository](https://github.com/VenkataSriSaiSuryaMandava/computer-use-automation-system)**
+
+An automation system combining LLM-guided interface discovery with deterministic workflow execution.
+
+**Key Areas**
+- Browser automation using Playwright
+- LLM-driven workflow discovery
+- Deterministic execution and replay
+- Safety guardrails
+- Human-in-the-loop escalation
+
+**Focus:** Reliable AI automation, execution control, and workflow traceability.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Contributions
+## 📊 GitHub Engineering Metrics
 
-<p align="center">
-  <a href="https://github.com/VenkataSriSaiSuryaMandava">
-    <img src="https://ghchart.rshah.org/36BCF7/VenkataSriSaiSuryaMandava" alt="Dynamic GitHub contribution calendar" />
-  </a>
-</p>
+<div align="center">
 
-<sub>Contribution data is generated dynamically from public GitHub activity. Refresh timing depends on the third-party service.</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=VenkataSriSaiSuryaMandava&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=github" height="175" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSriSaiSuryaMandava&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>Statistics are generated from GitHub data by third-party services. Values may be cached or temporarily unavailable. Language distribution reflects repository code, not overall proficiency.</sub>
+
+---
+
+## 🎯 Engineering Direction
+
+**Building AI-driven software that works beyond the prototype.**
+
+My interests are centered on engineering intelligent systems that combine modern AI capabilities with dependable software architecture.
+
+| Direction | Engineering Interests |
+| :--- | :--- |
+| **Agentic AI Engineering** | Autonomous agents, tool calling, orchestration, MCP, and multi-step workflows |
+| **AI Software Engineering** | LLM-powered products, intelligent features, retrieval systems, and evaluation |
+| **Backend Engineering** | Scalable APIs, microservices, distributed systems, and data-intensive applications |
+| **Full-Stack AI Development** | End-to-end AI applications, interactive interfaces, and backend integrations |
+
+**Open to opportunities:** AI Software Engineer · Agentic AI Engineer · Backend Software Engineer · Full-Stack Software Engineer
 
 ---
 
 <div align="center">
 
-### 🚀 What I'm Building Toward
+**Intelligent Systems • Reliable Engineering • Real-World Impact**
 
-**AI-powered products that are useful, reliable, and ready for real users.**
-
-I'm looking to contribute to teams building **agentic AI systems, LLM-powered applications, intelligent developer tools, and scalable backend platforms**.
-
-I bring an engineering mindset across the full product lifecycle—from architecture and APIs to agent workflows, deployment, testing, and iteration.
-
-**Open to early-career AI Software Engineering, Agentic AI, Backend, and Full-Stack opportunities.**
+*Building software that makes AI useful, scalable, and dependable.*
 
 </div>
