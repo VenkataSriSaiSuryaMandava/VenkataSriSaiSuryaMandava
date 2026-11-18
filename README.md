@@ -96,31 +96,21 @@ Contributing to large-scale open-source projects with a focus on **ML framework 
 
 **Repository:** [pytorch/pytorch](https://github.com/pytorch/pytorch)
 
-Worked on improvements to PyTorch's TorchDynamo compilation and Python compatibility behavior.
+Worked on proposed improvements to PyTorch's TorchDynamo compilation and Python compatibility behavior.
 
 - **Exception Handling:** Investigated missing-attribute handling for built-in Python types in TorchDynamo, addressing how `AttributeError` propagates through compiled execution paths.
 - **Compiler Diagnostics:** Proposed improvements to `torch.compile` error reporting to expose underlying tensor operation errors more clearly.
 - **Python Compatibility:** Worked on constant-folding behavior and exception handling for Python built-ins in TorchDynamo.
 
-**Related Contributions:**
-[PR #198330](https://github.com/pytorch/pytorch/pull/198330) ·
-[PR #198287](https://github.com/pytorch/pytorch/pull/198287) ·
-[PR #197499](https://github.com/pytorch/pytorch/pull/197499)
-
 ### ☸️ Kubernetes — Testing Infrastructure
 
 **Repository:** [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
-Contributed to simplifying Kubernetes end-to-end testing infrastructure and reducing redundant test-image dependencies.
+Worked on simplifying Kubernetes end-to-end testing infrastructure and reducing redundant test-image dependencies.
 
 - **Test Infrastructure:** Proposed migrating host IPC test execution from the standalone `ipc-utils` image to the existing `agnhost` utility image.
-- **Codebase Cleanup:** Removed obsolete image references, configuration entries, and related test-image dependencies.
+- **Codebase Cleanup:** Proposed removing obsolete image references, configuration entries, and related test-image dependencies.
 - **Validation:** Verified test package compilation, formatting, type checks, and command behavior compatibility.
-
-**Related Contribution:**
-[PR #143535](https://github.com/kubernetes/kubernetes/pull/143535)
-
-<sub>These descriptions cover submitted contributions. The linked PyTorch PRs above were closed without merging, and the Kubernetes PR was open when last checked.</sub>
 
 ---
 
@@ -166,24 +156,6 @@ An automation system combining LLM-guided interface discovery with deterministic
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Engineering Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VenkataSriSaiSuryaMandava&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=github" height="175" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSriSaiSuryaMandava&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VenkataSriSaiSuryaMandava&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-<sub>Statistics are generated from GitHub data by third-party services. Values may be cached or temporarily unavailable. Language distribution reflects repository code, not overall proficiency.</sub>
 
 ---
 
