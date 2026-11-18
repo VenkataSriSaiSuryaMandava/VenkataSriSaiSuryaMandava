@@ -1,53 +1,146 @@
-<h1 align="center">Hey there 👋 I'm Venkata Sri Sai Surya Mandava</h1>
-<h3 align="center">Backend Engineer • Cloud Systems • AI Engineer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer;Cloud-Native+Application+Builder;AI+Engineer;Distributed+Systems+Learner;Building+Scalable+Production+APIs"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</p>
+# Venkata Sri Sai Surya Mandava
 
----
+### AI-Driven Software Engineer | Agentic AI | Backend & Full-Stack Systems
 
-## 💫 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software+Systems;Engineering+AI+Agents+%26+LLM+Workflows;Developing+Scalable+Backend+Architectures;Turning+AI+Research+Into+Real+Products" alt="Animated engineering introduction" />
 
-💻 Software Engineer with a focus on **backend systems, cloud infrastructure, and scalable APIs**.  
-🚀 Currently building **production-ready backend services and ML-powered data pipelines using Python, Node.js, and AWS**.  
-🤝 Open to collaborating on **backend systems, distributed systems, and cloud-native applications**.  
-📚 Currently learning deeper **system design, distributed architectures, and performance optimization**.  
-💬 Ask me about **backend engineering, REST APIs, cloud deployment, and building real-time data systems**.  
-⚡ Fun fact: I enjoy turning **complex data problems into scalable production systems**.
+**Building intelligent applications that combine AI, reliable backend systems, and thoughtful product engineering.**
+
+</div>
 
 ---
 
-## 🌐 Socials
+### About Me
 
-<p align="center">
+I'm a software engineer focused on building **AI-powered applications, agentic workflows, and scalable software systems**.
 
-<a href="mailto:mandavavenkatasrisaisurya@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+My work sits at the intersection of **applied AI and software engineering** — from designing APIs and distributed services to integrating language models, retrieval systems, and autonomous agents into real applications.
 
-<a href="https://linkedin.com/in/venkatasrisaisuryamandava">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/surya._.mandava">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VenkataSriSaiSuryaMandava">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- 🎓 M.S. in Computer Science — University at Buffalo
+- 🤖 Building with **LLMs, AI agents, RAG, and tool-calling workflows**
+- ⚙️ Engineering **backend services, microservices, and full-stack applications**
+- ☁️ Working with **AWS, Azure, Docker, Kubernetes, and CI/CD**
+- 🧠 Interested in **agent orchestration, context engineering, evaluation, and reliable AI systems**
+- 🌱 Contributing to open-source software and exploring production-grade AI architectures
 
 ---
 
-## 💻 Tech Stack
+### Engineering Focus
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,c,cpp,js,ts,html,css,fastapi,express,react,vue,aws,azure,gcp,docker,postgres,mysql,dynamodb,git,github&perline=10"/>
-</p>
+| Area | What I Build |
+|:---|:---|
+| **Agentic AI** | Multi-agent workflows, tool calling, orchestration, stateful agents |
+| **Applied LLMs** | RAG pipelines, semantic search, model integrations, AI-powered features |
+| **Backend Engineering** | REST APIs, microservices, asynchronous processing, database-backed services |
+| **Full-Stack Development** | React applications, backend integrations, end-to-end product features |
+| **Cloud & Infrastructure** | Containerized services, CI/CD pipelines, cloud deployments |
+| **AI Reliability** | Evaluation, observability, latency optimization, structured outputs |
+
+---
+
+### Technology Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,fastapi,spring,nodejs,express,react,nextjs&perline=11" alt="Languages and frameworks" />
+
+**Cloud, Infrastructure & Databases**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,git&perline=11" alt="Cloud and database technologies" />
+
+</div>
+
+**AI & Machine Learning**
+
+`LangGraph` · `LangChain` · `OpenAI API` · `Claude API` · `MCP` · `RAG` · `Pinecone` · `FAISS` · `PyTorch` · `Transformers` · `Scikit-learn`
+
+**Engineering Practices**
+
+`System Design` · `Microservices` · `REST APIs` · `WebSockets` · `CI/CD` · `Automated Testing` · `Observability` · `Performance Optimization`
+
+---
+
+### Engineering Experience & Impact
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AI/ML Research & Product Engineering**
+
+Built ML-powered solutions and agent-based workflows for financial data analysis.
+
+- Worked with datasets covering **250+ assets**
+- Improved model accuracy by **30%**
+- Applied explainability techniques using SHAP
+- Developed cloud-deployed AI services
+
+</td>
+<td width="50%" valign="top">
+
+**Full-Stack & Backend Engineering**
+
+Developed scalable applications and data-driven services.
+
+- Supported **1,000+ concurrent users**
+- Built systems managing **5,000+ records**
+- Reduced manual work by **20+ hours/week**
+- Delivered API-driven application features
+
+</td>
+</tr>
+</table>
+
+---
+
+### Open Source & Projects
+
+**[Saayam For All — Open-Source Development](https://github.com/saayam-for-all/webapp)**
+
+Contributing to a community-driven platform through frontend engineering, application workflows, testing, and bug fixes.
+
+- Built and improved volunteer and steward workflows
+- Fixed authentication and form-related issues
+- Added automated tests and improved UI behavior
+- Collaborated through GitHub issues, pull requests, and code reviews
+
+**[Dispute Agent — AI Workflow Exploration](https://github.com/opensyndicate/dispute-agent)**
+
+Exploring AI-assisted dispute processing, evidence evaluation, and auditable workflow design.
+
+- Studying deterministic decision engines and agent workflows
+- Building demonstrable workflows with synthetic evidence
+- Exploring traceability, explainability, and human oversight
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VenkataSriSaiSuryaMandava&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSriSaiSuryaMandava&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=VenkataSriSaiSuryaMandava&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### What I'm Building Toward
+
+**Intelligent agents. Reliable systems. Useful products.**
+
+I'm interested in engineering AI systems that go beyond prototypes — systems that are measurable, maintainable, observable, and useful in production.
+
+*AI is one part of the system. Good engineering makes it work.*
+
+</div>
